@@ -1,0 +1,71 @@
+//Date conveter code in c 
+#include <stdio.h>
+
+struct Date {
+    int year;
+    int month;
+    int day;
+};
+
+struct Date convertBSToAD(struct Date bsDate) {
+    struct Date adDate;
+    adDate.year = bsDate.year - 56;
+    adDate.month = bsDate.month - 8;
+    adDate.day = bsDate.day - 17;
+
+    if (adDate.day <= 0) {
+        adDate.day += 30;
+        adDate.month--;
+    }
+    if (adDate.month <= 0) {
+        adDate.month += 12;
+        adDate.year--;
+    }
+
+    return adDate;
+}
+
+struct Date convertADToBS(struct Date adDate) {
+    struct Date bsDate;
+    bsDate.year = adDate.year + 56;
+    bsDate.month = adDate.month + 8;
+    bsDate.day = adDate.day + 17;
+
+    if (bsDate.day > 30) {
+        bsDate.day -= 30;
+        bsDate.month++;
+    }
+    if (bsDate.month > 12) {
+        bsDate.month -= 12;
+        bsDate.year++;
+    }
+
+    return bsDate;
+}
+
+int main() {
+    int choice;
+    struct Date date, convertedDate;
+
+    printf("Choose an option:\n");
+    printf("1. Convert BS to AD\n");
+    printf("2. Convert AD to BS\n");
+    printf("Enter your choice: ");
+    scanf("%d", &choice);
+
+    if (choice == 1) {
+        printf("Enter BS date (year month day): ");
+        scanf("%d %d %d", &date.year, &date.month, &date.day);
+        convertedDate = convertBSToAD(date);
+        printf("Date in AD is: %d-%02d-%02d\n", convertedDate.year, convertedDate.month, convertedDate.day);
+    } else if (choice == 2) {
+        printf("Enter AD date (year month day): ");
+        scanf("%d %d %d", &date.year, &date.month, &date.day);
+        convertedDate = convertADToBS(date);
+        printf("Date in BS is: %d-%02d-%02d\n", convertedDate.year, convertedDate.month, convertedDate.day);
+    } else {
+        printf("Invalid choice.\n");
+    }
+
+    return 0;
+}
