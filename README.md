@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mrcoderv
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ...python and c
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning ...python and c, java html,css, javascript
+- 💞️ I’m looking to collaborate on ...  linkedin : https://www.linkedin.com/in/raghav-vian-panthi/
+- 📫 How to reach me ... instragram: https://www.instagram.com/raghavavian/
+- 😄 Pronouns: ...Raghav
 - ⚡ Fun fact: ...
 
 <!---
