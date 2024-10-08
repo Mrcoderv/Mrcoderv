@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...  linkedin : https://www.linkedin.com/in/raghav-vian-panthi/
 - 📫 How to reach me ... instragram: https://www.instagram.com/raghavavian/
 - 😄 Pronouns: ...Raghav
-- ⚡ Fun fact: ... friend call me "Dada"and "Babaji"
+- ⚡ Fun fact: ... friends call me "Dada"and "Babaji"
 
 <!---
 Mrcoderv/Mrcoderv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
