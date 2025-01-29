@@ -3,18 +3,16 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3  # Updated version
         with:
-          github_user_name: Mrcoderv  # Change this to your GitHub username
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github_user_name: Mrcoderv  # Replace with your GitHub username
+          outputs: dist/github-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
