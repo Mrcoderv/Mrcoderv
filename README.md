@@ -58,7 +58,7 @@
 ---
 
 ## 🐍 **Contribution Snake**
-![Contribution Snake](https://github.com/Mrcoderv/Mrcoderv/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/Mrcoderv/Mrcoderv/blob/output/github-snake.svg)
 
 ---
 
