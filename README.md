@@ -52,13 +52,13 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Mrcoderv/count.svg" alt="Visitor Counter" />
 </p>
-
+<!--
 ---
 ## 🐍 **Contribution Snake**
 ![GitHub Contribution Snake]([https://raw.githubusercontent.com/Mrcoderv/output/dist/github-contribution-grid-snake.svg)  
 
 ---
-
+-->
 ## 💬 **Let's Connect!**
 
 <p align="center">
