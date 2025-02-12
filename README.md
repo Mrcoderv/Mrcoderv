@@ -85,9 +85,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrcoderv&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
-⭐ **Pro Tip:** _Press `Ctrl + F5` if the snake animation isn't updating!_
