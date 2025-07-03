@@ -10,25 +10,18 @@
 
 ---
 
-## 🚀 **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00CC&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontAlignY=40&desc=🚀%20Code%20%7C%20Create%20%7C%20Inspire&descAlignY=60" alt="Header Wave"/>
+</p>
 
 ---
-<!--
-## 📌 **Featured Projects**
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project Alpha](https://github.com/...)** | An awesome web application that solves X problem | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
-| **[Data Visualizer](https://github.com/...)** | Interactive data visualization tool | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white) |
--->
+## 🚀 **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,wordpress,jupyter" alt="Tech Stack Icons" />
+</p>
+
 ---
 
 ## 📈 **GitHub Analytics**
@@ -46,7 +39,9 @@
 
 ## 🏆 **Achievements**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=radical&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=radical&margin-w=15&row=2&column=4" alt="Trophy"/>
+</p>
 
 ---
 
@@ -56,6 +51,7 @@
 </p>
 
 ---
+
 ## 🐍 **Contribution Snake**
 
 <div align="center">
@@ -74,7 +70,9 @@
     >
   </picture>
 </div>
+
 ---
+
 ## 💬 **Let's Connect!**
 
 <p align="center">
@@ -83,6 +81,10 @@
   <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/raghav-vian-panthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@RaghavVian"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,100:00F7FF&height=100&section=footer" alt="Footer Wave"/>
 </p>
 
 ---
