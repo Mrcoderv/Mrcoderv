@@ -1,90 +1,81 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Raghav!;Problem+Solver;Let's+Build+Something+Awesome!&center=true" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3500&pause=800&color=00FF88&width=450&lines=%F0%9F%9A%80+Hey%2C+I'm+Raghav!;Code+Alchemist;Building+the+Future+Now!&center=true" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <a href="https://raghavpanthi.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/raghav-vian-panthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://raghavpanthi.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=00FF88"/></a>
+  <a href="https://www.linkedin.com/in/raghav-vian-panthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/></a>
+  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00FF88"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00CC&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontAlignY=40&desc=🚀%20Code%20%7C%20Create%20%7C%20Inspire&descAlignY=60" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FF88,100:FF00CC&height=140§ion=header&text=Welcome%20to%20my%20GitHub%20Galaxy!&fontSize=40&fontAlignY=38&desc=🌌%20Code%20%7C%20Innovate%20%7C%20Inspire&descAlignY=62&animation=fadeIn" alt="Header Wave"/>
 </p>
 
 ---
 
-## 🚀 **Tech Stack**
+## 🌟 **Tech Arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,wordpress,jupyter" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,wordpress,jupyter,react,nodejs,docker,git" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📊 **GitHub Pulse**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrcoderv&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=onedark&border_radius=12"/>
 </p>
 
 ---
 
-## 🏆 **Achievements**
+## 🔥 **Contribution Status**
+
+<p align="center" style="background-color: #000000; padding: 15px; border-radius: 10px;">
+  <span style="color: #00FF88; font-family: 'Courier New', Courier, monospace; font-size: 18px;">
+    💾 Commits: <b>Powering through code with relentless passion!</b><br>
+    🌟 Active Days: <b>Blazing a trail across the GitHub universe!</b><br>
+    ⚡ Streak: <b>Igniting creativity one commit at a time!</b>
+  </span>
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=radical&margin-w=15&row=2&column=4" alt="Trophy"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrcoderv&theme=onedark&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🌐 **Visitor Counter**
+## 🏅 **Trophy Case**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=onedark&margin-w=15&row=2&column=4" alt="Trophy"/>
+</p>
+
+---
+
+## 🌍 **Visitor Beacon**
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Mrcoderv/count.svg" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/Mrcoderv/count.svg?theme=dark" alt="Visitor Counter" />
 </p>
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Mrcoderv/Mrcoderv/output/dist/github-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Mrcoderv/Mrcoderv/output/dist/github-snake.svg"
-    >
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Mrcoderv/Mrcoderv/output/dist/github-snake.svg"
-    >
-  </picture>
-</div>
-
----
-
-## 💬 **Let's Connect!**
+## 🤝 **Connect with Me**
 
 <p align="center">
-  <a href="mailto:Raghavap.339@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/raghavavian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/raghav-vian-panthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@RaghavVian"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:Raghavap.339@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF88"/></a>
+  <a href="https://www.instagram.com/raghavavian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FF88"/></a>
+  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=00FF88"/></a>
+  <a href="https://www.linkedin.com/in/raghav-vian-panthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/></a>
+  <a href="https://www.youtube.com/@RaghavVian"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=00FF88"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,100:00F7FF&height=100&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF00CC,100:00FF88&height=120§ion=footer&animation=fadeIn" alt="Footer Wave"/>
 </p>
 
 ---
