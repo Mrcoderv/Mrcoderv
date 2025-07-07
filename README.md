@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3500&pause=800&color=00FF88&width=450&lines=%F0%9F%9A%80+Hey%2C+I'm+Raghav!;Code+Alchemist;Building+the+Future+Now!&center=true" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3500&pause=800&color=00FF88&width=450&lines=%F0%9F%9A%80+Hey%2C+I'm+Raghav!;Code+Alchemist;Building+the+Future+Now!¢er=true" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -39,7 +39,8 @@
   <span style="color: #00FF88; font-family: 'Courier New', Courier, monospace; font-size: 18px;">
     💾 Commits: <b>Powering through code with relentless passion!</b><br>
     🌟 Active Days: <b>Blazing a trail across the GitHub universe!</b><br>
-    ⚡ Streak: <b>Igniting creativity one commit at a time!</b>
+    ⚡ Streak: <b>Igniting creativity one commit at a time!</b><br>
+    🏆 Grade: <b>A+ (Elite Coder) - Consistent, impactful contributions!</b>
   </span>
 </p>
 
@@ -58,6 +59,7 @@
 ---
 
 ## 🌍 **Visitor Beacon**
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Mrcoderv/count.svg?theme=dark" alt="Visitor Counter" />
 </p>
