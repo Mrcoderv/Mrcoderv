@@ -63,13 +63,14 @@ My trophy case glows with the spoils of code wars, each badge a story of battles
 </p>
 
 ---
+## 🌌 **Code Constellation**
 
-## 🌍 **Interstellar Visitors**
+My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creation. Witness the radiant stats of a coder bending the fabric of the digital cosmos!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cosmic%20Voyagers-1000%2B-00FF88?style=for-the-badge&logo=rocket&logoColor=000000" alt="Visitor Badge"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=00FF88&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=radical&border_radius=15&border_color=00FF88&bg_color=000000"/>
 </p>
-
 ---
 
 ## 🤝 **Join the Code Nebula**
