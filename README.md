@@ -32,7 +32,6 @@ My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creati
 
 <p align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=Mrcoderv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=00FF88&bg_color=000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=radical&border_radius=15&border_color=00FF88&bg_color=000000"/>
   </p> height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=radical&border_radius=15&border_color=00FF88"/>
   
