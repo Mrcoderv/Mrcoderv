@@ -58,9 +58,7 @@
 ---
 ## 🌍 **Visitor Beacon**
 <p align="center">
-  <a href="https://github.com/Mrcoderv">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrcoderv&count_bg=%2300FF88&title_bg=%23000000&icon=github.svg&icon_color=%2300FF88&title=Visitors&edge_flat=false"/>
-  </a>
+  <img src="https://api.countapi.xyz/hit/github.com/Mrcoderv/visits?style=flat-square&label=Visitors&color=00FF88" alt="Visitor Counter"/>
 </p>
 
 
