@@ -56,12 +56,10 @@
 </p>
 
 ---
-
 ## 🌍 **Visitor Beacon**
-
 <p align="center">
   <a href="https://github.com/Mrcoderv">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrcoderv&title=Visitors&edge_flat=false&color=00FF88&icon=github" alt="Visitor Counter"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrcoderv&count_bg=%2300FF88&title_bg=%23000000&icon=github.svg&icon_color=%2300FF88&title=Visitors&edge_flat=false"/>
   </a>
 </p>
 
