@@ -57,9 +57,8 @@
 
 ---
 ## 🌍 **Visitor Beacon**
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/github.com/Mrcoderv/visits?style=flat-square&label=Visitors&color=00FF88" alt="Visitor Counter"/>
-</p>
+![Visitor Count](https://api.countapi.xyz/hit/github.com/Mrcoderv/visits?style=flat-square&label=Visitors&color=00FF88)
+
 
 
 ---
