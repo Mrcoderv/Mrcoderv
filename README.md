@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=600&color=00FF88&vCenter=true&width=480&lines=%F0%9F%9A%80+Raghav+Vian%2C+Code+Sorcerer!;Crafting+Digital+Universes;Rewriting+Reality+One+Line+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=600&color=00FF88&vCenter=true&width=480&lines=%F0%9F%9A%80+Hi%2C+I'm+Raghav!;Code+Wizard;Building+Cool+Stuff" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -12,14 +12,14 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColors=00FF88,FF00CC,00FFFF&height=150§ion=header&text=Welcome%20to%20Raghav's%20Code%20Cosmos!&fontSize=42&fontAlignY=35&desc=🌌%20Code+%7C%20Chaos+%7C%20Creation&descAlignY=65&animation=twirl" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColors=00FF88,FF00CC,00FFFF&height=150§ion=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=35&desc=🌌%20Code+%7C%20Fun+%7C%20Create&descAlignY=65&animation=twirl" alt="Header Wave"/>
 </p>
 
 ---
 
-## 🌟 **Tech Spellbook**
+## 🌟 **My Tools**
 
-I wield a galactic array of tools to conjure digital magic. My arsenal? A fusion of raw code and cosmic creativity.
+I use cool tools to make fun code. My kit? A mix of coding and creative spark.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,wordpress,jupyter,react,nodejs,docker,git,flask,aws,html,css,mysql" alt="Tech Stack Icons" />
@@ -27,9 +27,9 @@ I wield a galactic array of tools to conjure digital magic. My arsenal? A fusion
 
 ---
 
-## 🌌 **Code Constellation**
+## 🌌 **Code Stars**
 
-My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creation. Witness the radiant stats of a coder bending the fabric of the digital cosmos!
+My GitHub is full of code bursts, shining with new ideas. Check out my stats as I shape a code world!
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=00FF88&bg_color=000000"/>
@@ -38,14 +38,14 @@ My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creati
 
 ---
 
-## 🔥 **Cosmic Contribution Forge**
+## 🔥 **Code Power**
 
 <p align="center" style="background-color: #000000; padding: 20px; border-radius: 12px; border: 2px solid #00FF88;">
   <span style="color: #00FF88; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-    💾 **Commits**: Forging code like a blacksmith in a supernova! <b>~1.21 gigacommits and counting!</b><br>
-    🌌 **Active Days**: Surfing the GitHub cosmos, leaving trails of neon stardust!<br>
-    ⚡ **Streak**: A blazing comet of creativity, unstoppable at <b>lightspeed!</b><br>
-    🏆 **Code Rank**: <b>S++ (Galactic Trailblazer)</b> — rewriting the matrix daily!
+    💾 **Commits**: Making code like a star chef! <b>Lots and counting!</b><br>
+    🌌 **Active Days**: Zooming through GitHub with sparkles!<br>
+    ⚡ **Streak**: A fast comet of ideas, never stopping!<br>
+    🏆 **Code Rank**: <b>Super Star</b> — building code daily!
   </span>
 </p>
 
@@ -55,9 +55,9 @@ My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creati
 
 ---
 
-## 🏅 **Astral Achievements**
+## 🏅 **My Wins**
 
-My trophy case glows with the spoils of code wars, each badge a story of battles won in the digital void.
+My awards shine from coding battles, each one a story of wins in the code world.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=radical&margin-w=15&margin-h=15&row=2&column=4&no-bg=true" alt="Trophy"/>
@@ -65,9 +65,9 @@ My trophy case glows with the spoils of code wars, each badge a story of battles
 
 ---
 
-## 🌍 **Interstellar Visitors**
+## 🌍 **Visitors**
 
-A swarm of cosmic voyagers has breached my GitHub nebula! Behold the live tally of explorers traversing this code cosmos.
+People check out my GitHub! Look at the number of visitors to my code world.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mrcoderv&label=Cosmic+Voyagers&color=00FF88&style=for-the-badge" alt="Visitor Counter"/>
@@ -75,15 +75,17 @@ A swarm of cosmic voyagers has breached my GitHub nebula! Behold the live tally 
 
 ---
 
-## 🤝 **Join the Code Nebula**
+## 🤝 **Connect with Me**
 
-Beam into my orbit! Let’s collab, create, or just vibe in the digital ether.
+Join my code adventure! Let’s team up, make stuff, or just chat.
 
 <p align="center">
   <a href="mailto:Raghavap.339@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=000000"/></a>
   <a href="https://www.instagram.com/raghavavian/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=00FF88&labelColor=000000"/></a>
+  <a href="https://discord.com/users/raghavog"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=00FF88&labelColor=000000"/></a>
   <a href="https://www.youtube.com/@RaghavVian"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=00FF88&labelColor=000000"/></a>
 </p>
 
-<p align="center
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColors=FF00CC,00FF88,00FFFF&height=130§ion=footer&animation=twirl" alt="Footer Wave"/>
+</p>
