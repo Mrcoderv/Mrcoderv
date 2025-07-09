@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FF88,100:FF00CC&height=140&section=header&text=Welcome%20to%20my%20GitHub%20Galaxy!&fontSize=40&fontAlignY=38&desc=🌌%20Code%20%7C%20Innovate%20%7C%20Inspire&descAlignY=62&animation=fadeIn" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FF88,100:FF00CC&height=140§ion=header&text=Welcome%20to%20my%20GitHub%20Galaxy!&fontSize=40&fontAlignY=38&desc=🌌%20Code%20%7C%20Innovate%20%7C%20Inspire&descAlignY=62&animation=fadeIn" alt="Header Wave"/>
 </p>
 
 ---
@@ -61,8 +61,7 @@
 ## 🌍 **Visitor Beacon**
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://api.countapi.xyz/get/github.com/Mrcoderv/visits&style=for-the-badge&label=Visitors&color=00FF88&logo=github" alt="Visitor Count Badge"/>
-  <img src="https://api.countapi.xyz/update/github.com/Mrcoderv/visits/?amount=1" width="1" height="1" alt="counter updater"/>
+  ![Static Visitor Badge](https://img.shields.io/badge/visitors-1000+-00FF88?style=for-the-badge)
 </p>
 
 ---
@@ -78,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF00CC,100:00FF88&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF00CC,100:00FF88&height=120§ion=footer&animation=fadeIn" alt="Footer Wave"/>
 </p>
 
 ---
