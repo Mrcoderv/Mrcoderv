@@ -61,8 +61,11 @@
 ## 🌍 **Visitor Beacon**
 
 <p align="center">
+
   ![Static Visitor Badge](https://img.shields.io/badge/visitors-1000+-00FF88?style=for-the-badge)
+
 </p>
+
 
 ---
 
