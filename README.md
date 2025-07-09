@@ -26,6 +26,7 @@ I wield a galactic array of tools to conjure digital magic. My arsenal? A fusion
 </p>
 
 ---
+
 ## 🌌 **Code Constellation**
 
 My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creation. Witness the radiant stats of a coder bending the fabric of the digital cosmos!
@@ -63,14 +64,15 @@ My trophy case glows with the spoils of code wars, each badge a story of battles
 </p>
 
 ---
-## 🌌 **Code Constellation**
 
-My GitHub is a supernova of rogue commits, swirling in a chaotic dance of creation. Witness the radiant stats of a coder bending the fabric of the digital cosmos!
+## 🌍 **Interstellar Visitors**
+
+A swarm of cosmic voyagers has breached my GitHub nebula! Behold the live tally of explorers traversing this code cosmos.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=00FF88&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=radical&border_radius=15&border_color=00FF88&bg_color=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=Mrcoderv&label=Cosmic+Voyagers&color=00FF88&style=for-the-badge" alt="Visitor Counter"/>
 </p>
+
 ---
 
 ## 🤝 **Join the Code Nebula**
@@ -84,6 +86,4 @@ Beam into my orbit! Let’s collab, create, or just vibe in the digital ether.
   <a href="https://www.youtube.com/@RaghavVian"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=00FF88&labelColor=000000"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColors=FF00CC,00FF88,00FFFF&height=130§ion=footer&animation=twirl" alt="Footer Wave"/>
-</p>
+<p align="center
