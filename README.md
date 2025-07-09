@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://raghavpanthi.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=00FF88"/></a>
   <a href="https://www.linkedin.com/in/raghav-vian-panthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/></a>
-  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00FF88"/></a>
+  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00FF88"/></a> <a href="https://share.streamlit.io/user/mrcoderv"><img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=00FF88"/></a>
 </p>
 
 ---
