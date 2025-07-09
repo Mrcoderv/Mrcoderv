@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrcoderv&theme=onedark&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcoderv&theme=onedark&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 ---
