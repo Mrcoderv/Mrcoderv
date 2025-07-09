@@ -5,13 +5,14 @@
 <p align="center">
   <a href="https://raghavpanthi.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=00FF88"/></a>
   <a href="https://www.linkedin.com/in/raghav-vian-panthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/></a>
-  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00FF88"/></a> <a href="https://share.streamlit.io/user/mrcoderv"><img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=00FF88"/></a>
+  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00FF88"/></a>
+  <a href="https://share.streamlit.io/user/mrcoderv"><img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=00FF88"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FF88,100:FF00CC&height=140§ion=header&text=Welcome%20to%20my%20GitHub%20Galaxy!&fontSize=40&fontAlignY=38&desc=🌌%20Code%20%7C%20Innovate%20%7C%20Inspire&descAlignY=62&animation=fadeIn" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FF88,100:FF00CC&height=140&section=header&text=Welcome%20to%20my%20GitHub%20Galaxy!&fontSize=40&fontAlignY=38&desc=🌌%20Code%20%7C%20Innovate%20%7C%20Inspire&descAlignY=62&animation=fadeIn" alt="Header Wave"/>
 </p>
 
 ---
@@ -56,10 +57,13 @@
 </p>
 
 ---
+
 ## 🌍 **Visitor Beacon**
-![Visitor Count](https://api.countapi.xyz/hit/github.com/Mrcoderv/visits?style=flat-square&label=Visitors&color=00FF88)
 
-
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://api.countapi.xyz/get/github.com/Mrcoderv/visits&style=for-the-badge&label=Visitors&color=00FF88&logo=github" alt="Visitor Count Badge"/>
+  <img src="https://api.countapi.xyz/update/github.com/Mrcoderv/visits/?amount=1" width="1" height="1" alt="counter updater"/>
+</p>
 
 ---
 
@@ -74,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF00CC,100:00FF88&height=120§ion=footer&animation=fadeIn" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF00CC,100:00FF88&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
 </p>
 
 ---
