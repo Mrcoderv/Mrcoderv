@@ -17,6 +17,66 @@
 
 ---
 
+## 🏛️ **NEPAL STOCK EXCHANGE (NEPSE) REAL-TIME ANALYSIS**
+
+### 📊 **Featured Project: Advanced Stock Market Analysis Tool**
+
+![NEPSE Analysis Demo](https://github.com/user-attachments/assets/6a6c1415-ccb6-4d99-a13a-11ff96c27a78)
+
+A comprehensive real-time stock market analysis platform for the Nepal Stock Exchange (NEPSE) featuring:
+
+🌟 **Key Features:**
+- 📈 **Real-time Charts** - Interactive candlestick charts with technical indicators
+- 🔍 **Technical Analysis** - RSI, MACD, Moving Averages, Bollinger Bands
+- 💼 **Portfolio Tracking** - Advanced portfolio management and performance analysis
+- 🔎 **Stock Screener** - Filter stocks by technical criteria
+- 📅 **Nepali Calendar** - Integrated BS ↔ AD date conversion
+- 🌐 **Multi-Interface** - Web dashboard, CLI tools, and quick launcher
+
+### 🚀 **Quick Start**
+
+```bash
+# Clone the repository
+git clone https://github.com/Mrcoderv/Mrcoderv.git
+cd Mrcoderv
+
+# Launch the analysis tools
+python3 nepse_launcher.py
+```
+
+### 💻 **Available Tools**
+
+1. **🌐 Web Interface** - Interactive dashboard with real-time charts
+2. **💻 CLI Analysis** - Advanced command-line analysis tools
+3. **📊 Quick Analysis** - Instant market overview
+4. **📈 Portfolio Demo** - Portfolio management demonstration
+5. **🔍 Stock Screener** - Technical indicator-based filtering
+
+### 🛠️ **Technical Stack**
+
+- **Backend**: Python 3.12+ with advanced algorithms
+- **Frontend**: Modern web interface with interactive charts
+- **Analysis**: Custom technical indicators and pattern recognition
+- **Data**: Sample data with extensible API integration framework
+
+### 📁 **Project Structure**
+
+```
+nepse_analyzer/
+├── basic_app.py           # Web interface (no dependencies)
+├── cli.py                 # Advanced CLI tools
+├── app.py                 # Full Streamlit application
+├── data_fetcher.py        # Market data integration
+├── technical_analysis.py  # Technical indicators
+├── date_utils.py          # Nepali calendar utilities
+└── requirements.txt       # Python dependencies
+
+nepse_launcher.py          # Quick launcher for all tools
+date converter             # Original BS/AD date converter (C)
+```
+
+---
+
 ## 🌟 **My Tools**
 
 I use cool tools to make fun code. My kit? A mix of coding and creative spark.
