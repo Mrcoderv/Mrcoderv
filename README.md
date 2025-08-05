@@ -37,7 +37,7 @@ My GitHub is full of code bursts, shining with new ideas. Check out my stats as 
 </p>
 
 ---
-
+<img src="https://raw.githubusercontent.com/Mrcoderv/Mrcoderv/output/snake.svg" alt="Snake animation" />
 ## 🔥 **Code Power**
 
 <p align="center" style="background-color: #000000; padding: 20px; border-radius: 12px; border: 2px solid #00FF88;">
