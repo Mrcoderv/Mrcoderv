@@ -21,7 +21,11 @@
 
 ### 📊 **Featured Project: Advanced Stock Market Analysis Tool**
 
-![NEPSE Analysis Demo](https://github.com/user-attachments/assets/6a6c1415-ccb6-4d99-a13a-11ff96c27a78)
+
+<iframe src="https://nepse-analysis-app.vercel.app/" width="100%" height="700" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+![Some Image](path/to/image)\nSome description about the image...
+
 
 A comprehensive real-time stock market analysis platform for the Nepal Stock Exchange (NEPSE) featuring:
 
