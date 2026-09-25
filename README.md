@@ -72,7 +72,7 @@ Currently, I'm focusing on:
 </p>
 
 <p align="center">
-  <a href="https://nepse-analysis-app.vercel.app/" target="_blank">
+  <a href="https://nepse-pro.vercel.app/dashboard" target="_blank">
     <img
       src="https://via.placeholder.com/1200x600.png?text=NEPSE+Analysis+%7C+Real-Time+Market+Dashboard"
       alt="NEPSE Analysis Dashboard"
