@@ -1,114 +1,260 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=600&color=00FF88&vCenter=true&width=480&lines=%F0%9F%9A%80+Hi%2C+I'm+Raghav!;Code+Wizard;Building+Cool+Stuff" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raghav+Vian+Panthi+%F0%9F%91%8B;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Software+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1"
+    alt="Typing animation"
+  />
 </h1>
 
 <p align="center">
-  <a href="https://raghavpanthi.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://www.linkedin.com/in/raghav-vian-panthi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://leetcode.com/Mrcoderv/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://share.streamlit.io/user/mrcoderv"><img src="https://img.shields.io/badge/Streamlit-App-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=00FF88&labelColor=000000"/></a>
+  <strong>AI/ML Enthusiast • Backend Explorer • BCA Student • Builder</strong>
+</p>
+
+<p align="center">
+  <a href="https://raghavpanthi.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/raghav-vian-panthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Mrcoderv/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/Mrcoderv">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF88" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColors=00FF88,FF00CC,00FFFF&height=150§ion=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=35&desc=🌌%20Code+%7C%20Fun+%7C%20Create&descAlignY=65&animation=twirl" alt="Header Wave"/>
-</p>
-
----
-
-## 🏛️ **NEPAL STOCK EXCHANGE (NEPSE) REAL-TIME ANALYSIS**
-
-### 📊 **Featured Project: Advanced Stock Market Analysis Tool**
-
-<p align="center"> <a href="https://nepse-analysis-app.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🚀 Live App-Click to Open-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </p> <p align="center"> <a href=["<p align="center"> <a href="https://nepse-analysis-app.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🚀 Live App-Click to Open-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </p> <p align="center"> <a href=["https://nepse-analysis-app.vercel.app/](https://nepse-pro.vercel.app/dashboard)" target="_blank"> <img src="https://via.placeholder.com/1000x500.png?text=NEPSE+Analysis+Dashboard+Preview" alt="NEPSE App Preview"/> </a> </p>](https://nepse-pro.vercel.app/dashboard)" target="_blank"> <img src="https://via.placeholder.com/1000x500.png?text=NEPSE+Analysis+Dashboard+Preview" alt="NEPSE App Preview"/> </a> </p>
-
-
-A comprehensive real-time stock market analysis platform for the Nepal Stock Exchange (NEPSE) featuring:
-
-🌟 **Key Features:**
-- 📈 **Real-time Charts** - Interactive candlestick charts with technical indicators
-- 🔍 **Technical Analysis** - RSI, MACD, Moving Averages, Bollinger Bands
-- 💼 **Portfolio Tracking** - Advanced portfolio management and performance analysis
-- 🔎 **Stock Screener** - Filter stocks by technical criteria
-- 📅 **Nepali Calendar** - Integrated BS ↔ AD date conversion
-- 🌐 **Multi-Interface** - Web dashboard, CLI tools, and quick launcher
-
----
-
-## 🌟 **My Tools**
-
-I use cool tools to make fun code. My kit? A mix of coding and creative spark.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,wordpress,jupyter,react,nodejs,docker,git,flask,aws,html,css,mysql" alt="Tech Stack Icons" />
-</p>
-
----
-
-## 🌌 **Code Stars**
-
-My GitHub is full of code bursts, shining with new ideas. Check out my stats as I shape a code world!
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=00FF88&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=radical&border_radius=15&border_color=00FF88&bg_color=000000"/>
-</p>
-
----
-<img src="https://raw.githubusercontent.com/Mrcoderv/Mrcoderv/output/snake.svg" alt="Snake animation" />
-## 🔥 **Code Power**
-
-<p align="center" style="background-color: #000000; padding: 20px; border-radius: 12px; border: 2px solid #00FF88;">
-  <span style="color: #00FF88; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-    💾 **Commits**: Making code like a star chef! <b>Lots and counting!</b><br>
-    🌌 **Active Days**: Zooming through GitHub with sparkles!<br>
-    ⚡ **Streak**: A fast comet of ideas, never stopping!<br>
-    🏆 **Code Rank**: <b>Super Star</b> — building code daily!
-  </span>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mrcoderv&theme=radical&border_radius=12&border=00FF88&background=000000" 
-    alt="GitHub Streak" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:00FFFF,100:7B2FFF&height=180&section=header&text=BUILD.%20LEARN.%20CREATE.&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Exploring%20AI%20%7C%20Backend%20%7C%20Real-World%20Problems&descAlignY=58&descSize=16&animation=fadeIn"
+    alt="Header"
   />
 </p>
 
+## 👨‍💻 About Me
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Raghav Vian Panthi                                          │
+│                                                              │
+│  🎓 BCA Student                                              │
+│  🤖 AI/ML Enthusiast                                         │
+│  ⚙️  Backend & Systems Explorer                              │
+│  🌱 Learning by building real-world projects                 │
+│  🇳🇵 Based in Nepal                                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I enjoy turning ideas into working software and exploring how **AI, backend systems, data, and automation** can solve practical problems.
+
+Currently, I'm focusing on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* ⚙️ Backend development & APIs
+* 🧠 Problem solving and system fundamentals
+* 📊 Data-driven applications
+* 🚀 Building practical projects instead of just tutorials
+
+> **Learn → Build → Break → Fix → Repeat.**
 
 ---
 
-## 🏅 **My Wins**
+# 📈 Featured Project
 
-My awards shine from coding battles, each one a story of wins in the code world.
+## 🇳🇵 NEPSE Real-Time Analysis & Portfolio Platform
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=radical&margin-w=15&margin-h=15&row=2&column=4&no-bg=true" alt="Trophy"/>
+  <a href="https://nepse-analysis-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20APP-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nepse-analysis-app.vercel.app/" target="_blank">
+    <img
+      src="https://via.placeholder.com/1200x600.png?text=NEPSE+Analysis+%7C+Real-Time+Market+Dashboard"
+      alt="NEPSE Analysis Dashboard"
+      width="90%"
+    />
+  </a>
+</p>
+
+A full-stack **Nepal Stock Exchange (NEPSE)** analysis and portfolio management platform designed to make market data easier to explore and understand.
+
+### ⚡ What it includes
+
+| Feature                 | Description                                           |
+| ----------------------- | ----------------------------------------------------- |
+| 📊 Market Dashboard     | Market summary and real-time market information       |
+| 📈 Interactive Charts   | Candlestick charts and historical price visualization |
+| 🧠 Technical Analysis   | RSI, MACD, SMA, EMA and other indicators              |
+| 👀 Watchlist            | Track stocks that matter to you                       |
+| 💼 Virtual Portfolio    | Manage and analyze a simulated portfolio              |
+| 🔐 Authentication       | Email OTP + Google OAuth                              |
+| 💰 Transaction Analysis | Portfolio value, profit/loss and charges              |
+| 🇳🇵 Nepali Dates       | BS ↔ AD date handling                                 |
+| ⚡ Fast Data             | Caching and optimized API requests                    |
+
+### 🛠️ Tech Stack
+
+```text
+Frontend        → React + TypeScript + Vite + Tailwind CSS
+Backend         → Node.js + Express + TypeScript
+Database        → SQLite
+Charts          → Lightweight Charts
+Authentication  → JWT + Google OAuth + Email OTP
+Market Data     → NEPSE API
+Deployment      → Vercel
+```
+
+<p align="center">
+  <a href="https://nepse-analysis-app.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-Visit%20NEPSE%20Analysis-00FF88?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🌍 **Visitors**
-
-People check out my GitHub! Look at the number of visitors to my code world.
+# 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrcoderv&label=Cosmic+Voyagers&color=00FF88&style=for-the-badge" alt="Visitor Counter"/>
+  <img src="https://skillicons.dev/icons?i=python,go,java,c,js,ts,react,nodejs,express,flask,dotnet,docker,git,github,linux,mysql,sqlite,aws,html,css&perline=10" />
+</p>
+
+### Currently Exploring
+
+```text
+🤖 AI / ML
+   ├── Machine Learning
+   ├── Data Science
+   └── AI-powered applications
+
+⚙️ Backend
+   ├── Go
+   ├── Node.js
+   ├── REST APIs
+   └── Concurrent systems
+
+🗄️ Data
+   ├── SQL
+   ├── SQLite
+   └── Data analysis
+
+🚀 Engineering
+   ├── Git & GitHub
+   ├── Docker
+   ├── Linux
+   └── CI/CD
+```
+
+---
+
+# 🧪 Things I'm Building
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   🤖 AI/ML Projects                                          │
+│      Exploring practical AI solutions                        │
+│                                                              │
+│   ⚙️ Backend Systems                                         │
+│      APIs, concurrency, workers & automation                 │
+│                                                              │
+│   📊 Data Applications                                       │
+│      Turning raw data into useful information                │
+│                                                              │
+│   🚀 Personal Projects                                       │
+│      Experimenting, learning and shipping                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Mrcoderv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoderv&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mrcoderv&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🤝 **Connect with Me**
-
-Join my code adventure! Let’s team up, make stuff, or just chat.
+# 🐍 Contribution Graph
 
 <p align="center">
-  <a href="mailto:Raghavap.339@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://www.instagram.com/raghavavian/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://discord.com/users/raghavog"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=00FF88&labelColor=000000"/></a>
-  <a href="https://www.youtube.com/@RaghavVian"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=00FF88&labelColor=000000"/></a>
+  <img
+    src="https://raw.githubusercontent.com/Mrcoderv/Mrcoderv/output/snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mrcoderv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 🌐 Find Me Around the Internet
+
+<p align="center">
+  <a href="https://raghavpanthi.com.np">
+    <img src="https://img.shields.io/badge/🌐%20Website-00FF88?style=for-the-badge&labelColor=111111" />
+  </a>
+  <a href="https://www.linkedin.com/in/raghav-vian-panthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&labelColor=111111&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Raghavap.339@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&labelColor=111111&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/raghavavian/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=111111&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@RaghavVian">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&labelColor=111111&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Mrcoderv&label=PROFILE%20VISITORS&color=00FF88&style=for-the-badge"
+    alt="Profile visitors"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColors=FF00CC,00FF88,00FFFF&height=130§ion=footer&animation=twirl" alt="Footer Wave"/>
+  <i>“Don't just write code. Build something that matters.”</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00FFFF,100:00FF88&height=120&section=footer&animation=fadeIn"
+    alt="Footer"
+  />
 </p>
