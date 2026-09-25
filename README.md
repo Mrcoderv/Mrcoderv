@@ -21,7 +21,7 @@
 
 ### 📊 **Featured Project: Advanced Stock Market Analysis Tool**
 
-<p align="center"> <a href="https://nepse-analysis-app.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🚀 Live App-Click to Open-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </p> <p align="center"> <a href="https://nepse-analysis-app.vercel.app/" target="_blank"> <img src="https://via.placeholder.com/1000x500.png?text=NEPSE+Analysis+Dashboard+Preview" alt="NEPSE App Preview"/> </a> </p>
+<p align="center"> <a href="https://nepse-analysis-app.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🚀 Live App-Click to Open-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </p> <p align="center"> <a href=["<p align="center"> <a href="https://nepse-analysis-app.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🚀 Live App-Click to Open-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </p> <p align="center"> <a href=["https://nepse-analysis-app.vercel.app/](https://nepse-pro.vercel.app/dashboard)" target="_blank"> <img src="https://via.placeholder.com/1000x500.png?text=NEPSE+Analysis+Dashboard+Preview" alt="NEPSE App Preview"/> </a> </p>](https://nepse-pro.vercel.app/dashboard)" target="_blank"> <img src="https://via.placeholder.com/1000x500.png?text=NEPSE+Analysis+Dashboard+Preview" alt="NEPSE App Preview"/> </a> </p>
 
 
 A comprehensive real-time stock market analysis platform for the Nepal Stock Exchange (NEPSE) featuring:
