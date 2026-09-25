@@ -66,7 +66,7 @@ Currently, I'm focusing on:
 ## 🇳🇵 NEPSE Real-Time Analysis & Portfolio Platform
 
 <p align="center">
-  <a href="https://nepse-pro-app.vercel.app/" target="_blank">
+  <a href="https://nepse-pro.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20APP-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" />
   </a>
 </p>
