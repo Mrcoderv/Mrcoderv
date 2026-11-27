@@ -4,6 +4,13 @@
     alt="Typing animation"
   />
 </h1>
+<img
+  src="https://github.com/Mrcoderv.png"
+  width="55"
+  height="55"
+  style="border-radius: 50%;"
+  alt="Raghav's GitHub Avatar"
+/>
 
 <p align="center">
   <strong>AI/ML Enthusiast • Backend Explorer • BCA Student • Builder</strong>
